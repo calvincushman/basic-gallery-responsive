@@ -34,7 +34,7 @@
   background-color: purple;
 }
 
-@media screen and (max-width:1300px) and (min-width:801px) {
+@media screen and (min-width:801px) {
   #header {
     width: 100%;
     min-height: 40px;
